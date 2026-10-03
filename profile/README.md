@@ -19,6 +19,22 @@ Vous fournir une application nouvelle et de confiance pour connecter avec vos am
     <td style="border: 1px solid #d0d7de; padding: 0.75rem; ">Base de donnée</td>
     <td style="border: 1px solid #d0d7de; padding: 0.75rem;">MariaDB</td>
   </tr>
+  <tr>
+    <td style="border: 1px solid #d0d7de; padding: 0.75rem; ">Conteneurisation</td>
+    <td style="border: 1px solid #d0d7de; padding: 0.75rem;">Docker</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #d0d7de; padding: 0.75rem; ">Panneau administration</td>
+    <td style="border: 1px solid #d0d7de; padding: 0.75rem;">Gabarit TailAdmin</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #d0d7de; padding: 0.75rem; ">Service d'authentification</td>
+    <td style="border: 1px solid #d0d7de; padding: 0.75rem;">Rust</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #d0d7de; padding: 0.75rem; ">EventBus</td>
+    <td style="border: 1px solid #d0d7de; padding: 0.75rem;">Redis et TypeScript</td>
+  </tr>
 </table>
 
 # Nos dépôt
@@ -32,6 +48,18 @@ Vous fournir une application nouvelle et de confiance pour connecter avec vos am
 
 ## Dépôt planifier mais pas du tout en cours
 - Dépôt de la configuration nginx : [A26_5A6_04-Rambl-Router-Nginx](https://github.com/Ramble-cstjean/A26_5A6_04-Rambl-Router-Nginx)
+
+# Tableau de dépenance
+Tableau des dépendance : 
+| Service                | Dépendance              |
+| ---------------------- | ----------------------- |
+| Frontend               | API, authentification   |
+| Panneau administrateur | API, authentification   |
+| Authentification       | Redis?, BD              |
+| API                    | Redis, authentification |
+| Redis                  | DB                      |
+| BD                     | Aucune dépendance       |
+
 # Qui nous somme
 - Xavier Boudreau [Github](https://github.com/Xavier-Boudreau)
 - Galilée Wandji [Github](https://github.com/GalileeWandji11)
