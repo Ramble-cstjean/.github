@@ -28,10 +28,10 @@ Vous fournir une application nouvelle et de confiance pour connecter avec vos am
 - Dépôt de l'event bus : [A26_5A6_04-Rambl-EventBus](https://github.com/Ramble-cstjean/A26_5A6_04-Rambl-EventBus)
 - Dépot du panneau administateur : [A26_5A6_04-Rambl-panneau-administateur](https://github.com/Ramble-cstjean/A26_5A6_04-Rambl-panneau-administateur)
 - Dépôt de l'API REST : [A26_5A6_04-Rambl-api-rest](https://github.com/Ramble-cstjean/A26_5A6_04-Rambl-api-rest)
+- Dépôt du service d'autentifcation externe a l'api : [A26_5A6_04-Rambl-service-authentification](https://github.com/Ramble-cstjean/A26_5A6_04-Rambl-service-authentification)
 
 ## Dépôt planifier mais pas du tout en cours
 - Dépôt de la configuration nginx : [A26_5A6_04-Rambl-Router-Nginx](https://github.com/Ramble-cstjean/A26_5A6_04-Rambl-Router-Nginx)
-- Dépôt du service d'autentifcation externe a l'api : [A26_5A6_04-Rambl-service-authentification](https://github.com/Ramble-cstjean/A26_5A6_04-Rambl-service-authentification)
 # Qui nous somme
 - Xavier Boudreau [Github](https://github.com/Xavier-Boudreau)
 - Galilée Wandji [Github](https://github.com/GalileeWandji11)
