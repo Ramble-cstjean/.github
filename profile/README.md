@@ -1,6 +1,6 @@
 <div align="center">
 
-# Rambl
+# R*mble
 
 **Organisation GitHub · [Ramble-cstjean](https://github.com/Ramble-cstjean)**
 
