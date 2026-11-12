@@ -90,7 +90,7 @@ Pour le détail des flux (écriture 202 → EventBus → DB + WebSocket), des po
 | Nicolas Tremblay | [@ChimiChanga75](https://github.com/ChimiChanga75) |
 | Henri Blanchard | [@HenriBlanchard](https://github.com/HenriBlanchard) |
 | Christin Soulières | [@sinistershadow18](https://github.com/sinistershadow18) |
-| Vincent Hottin | [@v1nny31](https://github.com/v1nny31) |
+| Vincent Hottin | [@v1nny31](https://github.com/VincentHottin) |
 | Yacine Idir | [@YacineIdir](https://github.com/YacineIdir) |
 
 ---
